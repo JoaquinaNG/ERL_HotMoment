@@ -60,7 +60,7 @@ def compute_response_recovery(
             if len(future_vals) == 0:
                 recovery_time = pd.NaT
             else:
-                diffs = np.abs(future_vals - before) / (before + epsilon)
+                diffs = np.abs(future_vals - before) / (before)
                 recovery_mask = diffs <= max_change
 
                 if recovery_mask.any():
