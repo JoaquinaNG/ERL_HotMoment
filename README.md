@@ -14,6 +14,11 @@ iii. Classification — Classify observations as low/high response and fast/long
     
 iv. Aggregation — Create cohesive events based on the classified observations.
 
+# Flexibility and Application of Conceptual Framework
+The framework is intentionally flexible. While the four steps define the way to identify hot moments, there are many ways to achieve the objective of each step. We encourage you to use the most rigorous, data-driven, and mathematically robust analytical and statistical tools available to you at each stage.
+
+We hope these concepts inspire and help you make sense of your data and systems by identifying the **hot moments**!
+
 # Repository Structure for Illustrative Example
 
 - **Rr_computation.py**  
@@ -26,11 +31,6 @@ iv. Aggregation — Create cohesive events based on the classified observations.
   Water-quality timeseries data used in the example.
 
 - **README.md**  
-
-# Flexibility and Future Development
-The framework is intentionally flexible. While the four steps define the way to identify hot moments, there are many ways to achieve the objective of each step. We encourage you to use the most rigorous, data-driven, and mathematically robust analytical and statistical tools available to you at each stage.
-
-We hope these concepts inspire and help you make sense of your data and systems by identifying the **hot moments**!
 
 # Contact and Citation Information
 Joaquina Noriega: joaquinanoriegagimenez2027@u.northwestern.edu
