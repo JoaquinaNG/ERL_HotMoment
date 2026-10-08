@@ -37,7 +37,7 @@ Joaquina Noriega: joaquinanoriegagimenez2027@u.northwestern.edu
 
 This repository is archived on Zenodo:
 
-DOI: https://doi.org/10.5281/zenodo.21797993
+DOI: https://doi.org/10.5281/zenodo.23250177
 
 If you use this repository or adapt the code for your research, please cite the repository or the associated manuscript, currently under review in Environmental Research Letters, when available.
 
